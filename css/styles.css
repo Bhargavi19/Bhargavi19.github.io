@@ -10039,7 +10039,7 @@ p.lead {
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
-  text-transform: uppercase;
+  text-transform: none;
 }
 #sideNav .navbar-toggler:focus {
   outline-color: #d48a6e;
@@ -10088,8 +10088,8 @@ p.lead {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  height: 3.5rem;
-  width: 3.5rem;
+  height: 2.5rem;
+  width: 2.5rem;
   background-color: #495057;
   color: #fff;
   border-radius: 100%;
@@ -10132,4 +10132,11 @@ section.resume-section .resume-section-content {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
+}
+
+.name{
+  font-size: 2rem;
+  font-weight: 600;
+  color: black;
+  border-color: #dee2e6 #dee2e6 #fff;
 }
