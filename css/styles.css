@@ -10135,8 +10135,9 @@ section.resume-section .resume-section-content {
 }
 
 .name{
-  font-size: 2rem;
+  font-size: 3rem;
   font-weight: 600;
   color: black;
   border-color: #dee2e6 #dee2e6 #fff;
+  font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
